@@ -1,8 +1,15 @@
 {
   "name": "queuing-system",
   "version": "1.0.0",
+<<<<<<< HEAD
   "description": "ALX queuing-system  project with Kue & redis",
   "main": "0-redis_client.js",
+=======
+  "description": "A project for learning the basics of a queueing system in Node.js.",
+  "author": "Gabriel Okemwa",
+  "private": true,
+  "license": "MIT",
+>>>>>>> ce8a7851aebd531221d56e1eb19b78ffda9339d8
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
