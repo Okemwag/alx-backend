@@ -2,7 +2,7 @@
   "name": "queuing_system_in_js",
   "version": "1.0.0",
   "description": "A project for learning the basics of a queueing system in Node.js.",
-  "author": "Bezaleel Olakunori <bezaleeloci@gmail.com>",
+  "author": "Gabriel Okemwa",
   "private": true,
   "license": "MIT",
   "scripts": {
